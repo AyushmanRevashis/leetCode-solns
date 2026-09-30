@@ -6,6 +6,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -13,6 +14,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -20,6 +22,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -31,6 +34,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
