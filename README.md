@@ -17,6 +17,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +95,5 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
 <!---LeetCode Topics End-->
