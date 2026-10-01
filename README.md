@@ -9,6 +9,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -18,6 +19,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -27,6 +29,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -55,6 +58,7 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
