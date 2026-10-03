@@ -13,26 +13,28 @@
  *     }
  * }
  */
-class Solution {
-    public boolean isValidBST(TreeNode root) {
-        ArrayList<Integer> ans = new ArrayList<>();
-        inorder(root, ans);
-        int n = ans.size();
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (ans.get(i) >= ans.get(j)) {
-                    return false;
-                }
-            }
-        }return true;
-
+ class Pair{
+    long max;
+    long min;
+    Pair(long max,long min){
+        this.max=max;
+        this.min=min;
     }
-
-    public void inorder(TreeNode root, ArrayList<Integer> ans) {
-        if (root == null)
-            return;
-        inorder(root.left, ans);
-        ans.add(root.val);
-        inorder(root.right, ans);
+ }
+class Solution {
+    static boolean flag;
+    public boolean isValidBST(TreeNode root) {
+        flag= true;
+        maxMin(root);
+        return flag;
+    }
+    Pair maxMin(TreeNode root){
+        if(root==null) return new Pair(Long.MIN_VALUE,Long.MAX_VALUE);
+        Pair left= maxMin(root.left);
+        Pair right= maxMin(root.right);
+        long max= Math.max(root.val,Math.max(left.max,right.max));
+        long min= Math.min(root.val,Math.min(left.min,right.min));
+        if(root.val<=left.max || root.val>=right.min) flag=false;
+        return new Pair(max,min);
     }
 }
