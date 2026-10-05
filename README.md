@@ -86,6 +86,7 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode solutions for DSA practice.
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 <!---LeetCode Topics End-->
