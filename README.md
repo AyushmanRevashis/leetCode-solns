@@ -90,6 +90,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
