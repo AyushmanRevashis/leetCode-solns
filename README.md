@@ -108,6 +108,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0061-rotate-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
