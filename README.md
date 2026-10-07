@@ -25,6 +25,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
