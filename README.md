@@ -39,6 +39,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -94,6 +95,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0141-linked-list-cycle](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -186,4 +188,8 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0234-palindrome-linked-list/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 <!---LeetCode Topics End-->
