@@ -120,6 +120,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0295-find-median-from-data-stream/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
