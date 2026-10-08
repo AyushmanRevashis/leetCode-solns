@@ -154,6 +154,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -170,10 +171,12 @@ A collection of LeetCode solutions for DSA practice.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -187,6 +190,7 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0155-min-stack/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,4 +211,8 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0020-valid-parentheses/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
