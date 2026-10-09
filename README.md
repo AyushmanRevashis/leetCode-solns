@@ -89,6 +89,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -196,6 +197,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Doubly-Linked List
