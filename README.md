@@ -106,6 +106,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
 ## Backtracking
@@ -193,6 +194,7 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -224,5 +226,6 @@ A collection of LeetCode solutions for DSA practice.
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
