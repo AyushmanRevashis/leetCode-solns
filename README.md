@@ -121,6 +121,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
+| [0704-binary-search](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0704-binary-search/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Hash Table
@@ -148,6 +149,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0538-convert-bst-to-greater-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0704-binary-search](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0704-binary-search/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
