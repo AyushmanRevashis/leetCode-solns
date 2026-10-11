@@ -132,6 +132,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0141-linked-list-cycle/) | Easy |
@@ -222,6 +223,7 @@ A collection of LeetCode solutions for DSA practice.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0020-valid-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -237,4 +239,8 @@ A collection of LeetCode solutions for DSA practice.
 | [0225-implement-stack-using-queues](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
