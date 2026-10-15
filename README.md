@@ -149,6 +149,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0191-number-of-1-bits](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0191-number-of-1-bits/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -255,5 +256,6 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
