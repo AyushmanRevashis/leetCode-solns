@@ -128,6 +128,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0136-single-number](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0704-binary-search/) | Easy |
@@ -248,4 +249,8 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
