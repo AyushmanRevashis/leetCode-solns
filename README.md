@@ -121,10 +121,12 @@ A collection of LeetCode solutions for DSA practice.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0113-path-sum-ii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -255,6 +257,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0231-power-of-two/) | Easy |
