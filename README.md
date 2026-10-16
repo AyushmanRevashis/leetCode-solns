@@ -184,6 +184,7 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0342-power-of-four/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Geometry
@@ -221,6 +222,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0024-swap-nodes-in-pairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0231-power-of-two](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0342-power-of-four/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -261,5 +263,6 @@ A collection of LeetCode solutions for DSA practice.
 | [0136-single-number](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0342-power-of-four/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 <!---LeetCode Topics End-->
