@@ -132,6 +132,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0136-single-number](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
+| [0260-single-number-iii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0260-single-number-iii/) | Medium |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0704-binary-search/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -264,6 +265,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0136-single-number](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0231-power-of-two/) | Easy |
+| [0260-single-number-iii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0342-power-of-four/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
