@@ -1,0 +1,18 @@
+class Solution {
+    public int[] singleNumber(int[] nums) {
+        int xor = 0;
+        for (int ele : nums) {
+            xor ^= ele;
+        }
+        int mask = (xor & (xor - 1)) ^ xor;
+        int b1 = 0, b2 = 0;
+        for (int ele : nums) {
+            if ((mask & ele) == 0)
+                b2 ^= ele;
+            else
+                b1 ^= ele;
+        }
+        int[] ans = { b1, b2 };
+        return ans;
+    }
+}
