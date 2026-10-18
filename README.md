@@ -186,6 +186,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0342-power-of-four/) | Easy |
@@ -282,6 +283,11 @@ A collection of LeetCode solutions for DSA practice.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
