@@ -140,6 +140,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -282,6 +283,7 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
