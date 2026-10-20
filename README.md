@@ -135,6 +135,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
 | [0260-single-number-iii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0260-single-number-iii/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -290,10 +291,19 @@ A collection of LeetCode solutions for DSA practice.
 | [0062-unique-paths](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0062-unique-paths/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
