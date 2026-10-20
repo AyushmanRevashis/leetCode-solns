@@ -82,6 +82,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0101-symmetric-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Lifting
@@ -135,6 +136,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
 | [0260-single-number-iii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0260-single-number-iii/) | Medium |
+| [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0704-binary-search/) | Easy |
@@ -291,6 +293,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0062-unique-paths](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
@@ -301,9 +304,14 @@ A collection of LeetCode solutions for DSA practice.
 ## Knapsack Problem
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
