@@ -250,6 +250,7 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0020-valid-parentheses/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -299,6 +300,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
