@@ -124,6 +124,7 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0078-subsets](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0113-path-sum-ii/) | Medium |
+| [0494-target-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0494-target-sum/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0260-single-number-iii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0260-single-number-iii/) | Medium |
 | [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0494-target-sum/) | Medium |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
 | [0704-binary-search](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0704-binary-search/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -295,6 +297,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0494-target-sum/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Combinatorics
@@ -306,10 +309,12 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0494-target-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
