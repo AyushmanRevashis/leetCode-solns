@@ -252,6 +252,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0020-valid-parentheses](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0020-valid-parentheses/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0746-min-cost-climbing-stairs](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
