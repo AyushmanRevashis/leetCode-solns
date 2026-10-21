@@ -1,37 +1,24 @@
 class Solution {
+    static int[][] dp;
     public int coinChange(int[] coins, int amount) {
-        int[][] dp = new int[coins.length][amount + 1];
-
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
-        }
-
-        int ans = helper(0, coins, amount, dp);
-
-        return ans == Integer.MAX_VALUE ? -1 : ans;
+        int n= coins.length;
+        dp = new int[n][amount+1];
+        int ans = helper(0, coins, amount);
+        return (ans != Integer.MAX_VALUE) ? ans : -1;
     }
 
-    public int helper(int i, int[] coins, int amount, int[][] dp) {
-        if (amount == 0)
-            return 0;
-
-        if (i >= coins.length)
-            return Integer.MAX_VALUE;
-
-        if (dp[i][amount] != -1)
-            return dp[i][amount];
-
-        int skip = helper(i + 1, coins, amount, dp);
-
-        int pick = Integer.MAX_VALUE;
-        if (coins[i] <= amount) {
-            int next = helper(i, coins, amount - coins[i], dp);
-
-            if (next != Integer.MAX_VALUE) {
-                pick = 1 + next;
-            }
+    public int helper(int i, int[] coins, int amount) {
+        if (i == coins.length) {
+            if (amount == 0)
+                return 0;
+            else
+                return Integer.MAX_VALUE;
         }
-
-        return dp[i][amount] = Math.min(skip, pick);
+        if (dp[i][amount]!=0)return dp[i][amount];
+        int skip = helper(i + 1, coins, amount);
+        if(coins[i]>amount)return dp[i][amount]=skip;
+        int take = helper(i, coins, amount - coins[i]);
+        int pick = (take == Integer.MAX_VALUE) ? take : take + 1;
+        return dp[i][amount]= Math.min(pick, skip);
     }
 }
