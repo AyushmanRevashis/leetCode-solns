@@ -137,6 +137,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
 | [0260-single-number-iii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0260-single-number-iii/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0494-target-sum/) | Medium |
@@ -171,6 +172,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -301,6 +303,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0494-target-sum/) | Medium |
@@ -334,4 +337,8 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
