@@ -187,6 +187,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0061-rotate-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -259,6 +260,7 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0072-edit-distance/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -308,6 +310,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0072-edit-distance/) | Medium |
@@ -354,4 +357,8 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0354-russian-doll-envelopes/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
