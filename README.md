@@ -151,6 +151,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0973-k-closest-points-to-origin](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Hash Table
@@ -187,6 +188,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0875-koko-eating-bananas](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
