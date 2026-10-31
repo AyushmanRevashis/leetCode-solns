@@ -47,6 +47,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0543-diameter-of-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode solutions for DSA practice.
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,6 +269,7 @@ A collection of LeetCode solutions for DSA practice.
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0682-baseball-game/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +321,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
