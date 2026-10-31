@@ -122,12 +122,14 @@ A collection of LeetCode solutions for DSA practice.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0113-path-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0494-target-sum/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0051-n-queens/) | Hard |
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0078-subsets/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -367,4 +369,8 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
