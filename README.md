@@ -122,6 +122,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0113-path-sum-ii/) | Medium |
@@ -129,6 +130,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0051-n-queens/) | Hard |
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0078-subsets/) | Medium |
