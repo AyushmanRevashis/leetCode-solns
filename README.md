@@ -48,6 +48,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0547-number-of-provinces](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1971-find-if-path-exists-in-graph](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Tree
@@ -89,6 +90,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0547-number-of-provinces](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0841-keys-and-rooms/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Binary Lifting
@@ -388,9 +390,11 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0547-number-of-provinces/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0841-keys-and-rooms/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
