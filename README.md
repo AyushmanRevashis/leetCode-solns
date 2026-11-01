@@ -45,6 +45,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0547-number-of-provinces/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0938-range-sum-of-bst/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -84,6 +85,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0112-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0547-number-of-provinces/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -380,4 +382,12 @@ A collection of LeetCode solutions for DSA practice.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0051-n-queens/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
