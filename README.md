@@ -138,6 +138,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0001-two-sum/) | Easy |
 | [0046-permutations](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0051-n-queens/) | Hard |
 | [0064-minimum-path-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0064-minimum-path-sum/) | Medium |
@@ -171,6 +172,7 @@ A collection of LeetCode solutions for DSA practice.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
