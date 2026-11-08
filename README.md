@@ -169,6 +169,7 @@ A collection of LeetCode solutions for DSA practice.
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1671-minimum-number-of-removals-to-make-mountain-array/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2596-check-knight-tour-configuration/) | Medium |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0141-linked-list-cycle](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
