@@ -149,6 +149,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0198-house-robber/) | Medium |
 | [0260-single-number-iii](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0260-single-number-iii/) | Medium |
+| [0283-move-zeroes](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0283-move-zeroes/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0322-coin-change/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0354-russian-doll-envelopes/) | Hard |
@@ -212,6 +213,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0160-intersection-of-two-linked-lists](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
