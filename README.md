@@ -288,6 +288,7 @@ A collection of LeetCode solutions for DSA practice.
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0020-valid-parentheses/) | Easy |
+| [0038-count-and-say](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0038-count-and-say/) | Medium |
 | [0072-edit-distance](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0072-edit-distance/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/AyushmanRevashis/leetCode-solns/tree/main/1092-shortest-common-supersequence/) | Hard |
